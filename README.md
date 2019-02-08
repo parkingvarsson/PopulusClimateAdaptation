@@ -4,6 +4,6 @@ Scripts for sunning analyses from Ingvarsson & Bernhardsson "Genome-wide signatu
 
 
 	Plot_Hapflk_data.R		- plot data from hapFLK analyses
-	disimilarity_modelling.R 	- Generalised disimilarity modelling to predict genetic changes in response to future climate change
-	phenotypic_selection.R		- Estimate fitness surfances fof bud flush and bud set  
 	run_HapFLK.sh 			- run hapFLK analyses 
+	disimilarity_modelling.R 	- Generalised disimilarity modelling to predict genetic changes in response to future climate change
+	phenotypic_selection.R		- Estimate fitness surfaces for bud flush and bud set  
